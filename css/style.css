@@ -10,3 +10,8 @@ body {
     padding: 5px 30px;
     border-radius: 5px;
 }
+
+.footer-area {
+    background-color: #0B0D17;
+    width: 100%;
+}
