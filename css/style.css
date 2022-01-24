@@ -11,6 +11,16 @@ body {
     border-radius: 5px;
 }
 
+.wedding {
+    position: relative;
+}
+
+.toast-area {
+    position: absolute;
+    top: 0;
+    left: 125px;
+}
+
 .footer-area {
     background-color: #0B0D17;
     width: 100%;
